@@ -1,4 +1,4 @@
-.ipynb_checkpoints
-.xlsx
-.csv
-.exe
+*.ipynb_checkpoints
+*.xlsx
+*.csv
+*.exe
